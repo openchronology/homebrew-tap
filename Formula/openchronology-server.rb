@@ -4,9 +4,9 @@
 class OpenchronologyServer < Formula
   desc "Exact timelines, shared on your terms: the OpenChronology platform server"
   homepage "https://github.com/openchronology/timeline-app"
-  url "https://github.com/openchronology/timeline-app/releases/download/v0.3.0/openchronology-server-platform.tar.gz"
-  version "0.3.0"
-  sha256 "f375d28f0cf72cb44d7da283bf78e3cabef3b6c4964113e73c7a6fb8bfcdea3b"
+  url "https://github.com/openchronology/timeline-app/releases/download/v0.4.0/openchronology-server-platform.tar.gz"
+  version "0.4.0"
+  sha256 "3cc1475c9379272023afcc49a7816737d09c6396d55456b3793a0c77060ee25a"
   license "GPL-3.0-only"
 
   depends_on "cmake" => :build
