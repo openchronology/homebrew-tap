@@ -6,7 +6,7 @@ class OpenchronologyServer < Formula
   homepage "https://github.com/openchronology/timeline-app"
   url "https://github.com/openchronology/timeline-app/releases/download/v0.4.0/openchronology-server-platform.tar.gz"
   version "0.4.0"
-  sha256 "3cc1475c9379272023afcc49a7816737d09c6396d55456b3793a0c77060ee25a"
+  sha256 "e60bc25e364221f88b92ee5270651fe82106616338073158e955dac7ec576042"
   license "GPL-3.0-only"
 
   depends_on "cmake" => :build
